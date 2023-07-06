@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/drawable/ic_baseline_bar_chart_24.xml" value="0.202" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/drawable/ic_baseline_key_24.xml" value="0.202" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/drawable/ic_baseline_library_books_24.xml" value="0.2205" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2205" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/activity_login.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/activity_main.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/changepassword.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/dialog_chinhsua_thanhvien.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/dialog_chitiet_thanhvien.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/dialog_doimatkhau.xml" value="0.24895833333333334" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/dialog_them_phieumuon.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/dialog_them_sach.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/dialog_them_thanhvien.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/fragment_qlloaisach.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/fragment_qlphieumuon.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/fragment_qlsach.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/fragment_qlthanhvien.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/fragment_thongkedoanhthu.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/fragment_thongketop10.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/header_layout.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/item_recycler_loaisach.xml" value="0.22644927536231885" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/item_recycler_phieumuon.xml" value="0.176" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/item_recycler_sach.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/item_recycler_thanhvien.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/item_recycler_top10.xml" value="0.25" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/phieu_muon_fragment.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/qlloaisach_fragment.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/quanlyphieumuon.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/layout/toolbar.xml" value="0.22418478260869565" />
+        <entry key="..\:/MOB2041_DAM/DAM_quangndph27050/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

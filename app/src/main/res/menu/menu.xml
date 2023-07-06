@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mQLPhieuMuon"
+        android:title="Quản lý phiếu mượn"
+        android:icon="@drawable/ic_baseline_book_online_24"/>
+    <item android:id="@+id/mQLLoaiSach"
+        android:title="Quản lý loại sách "
+        android:icon="@drawable/ic_baseline_bookmark_add_24"/>
+    <item android:id="@+id/mQLSach"
+        android:title="Quản lý sách"
+        android:icon="@drawable/ic_baseline_library_books_24"/>
+    <item android:id="@+id/mQLThanhVien"
+        android:title="Quản lý thành viên"
+        android:icon="@drawable/ic_baseline_people_alt_24"/>
+    <item android:title="Thống kê">
+        <menu>
+            <item android:id="@+id/mTop10"
+                android:title="Top 10 sach doc nhieu nhat"
+                android:icon="@drawable/ic_baseline_bar_chart_24"/>
+            <item android:id="@+id/mDoanhThu"
+                android:title="Doanh thu"
+                android:icon="@drawable/ic_baseline_attach_money_24"/>
+        </menu>
+    </item>
+
+    <item android:title="Người dùng">
+        <menu>
+            <item android:id="@+id/mDoiMatKhau"
+                android:title="Đổi mật khẩu"
+                android:icon="@drawable/ic_baseline_password_24"/>
+            <item android:id="@+id/mThoat"
+                android:title="Thoát"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"/>
+        </menu>
+    </item>
+</menu>
